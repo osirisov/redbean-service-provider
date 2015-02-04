@@ -7,11 +7,15 @@
         {
             "name": "Ivo Bathke",
             "email": "ivo.bathke@gmail.com"
+        },
+        {
+            "name": "Rossi Guiliani",
+            "email": "rossi@guiliani.me"
         }
     ],
     "require": {
         "silex/silex": "~1.0",
-        "gabordemooij/redbean": "dev-RedBeanPHP4_1_X"
+        "gabordemooij/redbean": "4.1.0.*"
     },
     "repositories": [
         {
